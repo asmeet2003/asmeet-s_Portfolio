@@ -10,7 +10,7 @@ import HeroDark from "./images/hero-dark.jpg";
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
-  
+
 /* START HERE
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
@@ -35,7 +35,7 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+  "I am passionate about technology and its potential to enhance lives and productivity. My expertise spans React, Node.js, Express.js, MongoDB, Java, Python, and JavaScript. I leverage these skills to build robust and innovative solutions, blending front-end and back-end technologies to create seamless and efficient applications.";
 
 /* Skills
  ************************************************************** 
